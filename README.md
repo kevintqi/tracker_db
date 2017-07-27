@@ -1,6 +1,10 @@
 # tracker_db
 Database used with Tracker App
 
+## Prerequisites
+1. Install docker
+2. Install Git
+
 ## Setup data for db
 1. git clone repository
 2. mkdir ~/data
